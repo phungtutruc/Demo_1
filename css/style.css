@@ -1,0 +1,13 @@
+.blog-list ul {
+	padding: 0;
+}
+.blog-list .desc p {
+	float: left;
+}
+.blog-list .desc a {
+	margin-left: 10px;
+	text-decoration: underline;
+}
+.blog-list .desc a:hover {
+	text-decoration: none;
+}
