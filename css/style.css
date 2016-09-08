@@ -11,3 +11,12 @@
 .blog-list .desc a:hover {
 	text-decoration: none;
 }
+
+.news-item .date {
+	width: 	25%;
+	float: 	left;
+	text-align: center;
+}
+.news-item .detail {
+	overflow: hidden;
+}
